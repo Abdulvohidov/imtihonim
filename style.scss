@@ -1,0 +1,433 @@
+.navbar {
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    display: flex;
+
+    button {
+        width: 100px;
+        height: 50px;
+        border-radius: 25px;
+        position: absolute;
+        left: 1400px;
+        border: none;
+        background: #F16F4F;
+        color: white;
+    }
+
+    h1 {
+        position: absolute;
+        left: 280px;
+    }
+
+    .blog {
+        position: absolute;
+        left: 130px;
+        align-items: center;
+        display: flex;
+        color: gray;
+    }
+
+    .contact {
+        position: absolute;
+        left: 220px;
+        align-items: center;
+        display: flex;
+        color: gray;
+    }
+
+
+
+}
+
+.navbar img {
+    position: absolute;
+    left: 80px;
+}
+
+
+.coca {
+    position: absolute;
+    left: 80px;
+    align-items: center;
+    display: flex;
+}
+
+
+
+.fur {
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    margin-top: 70px;
+    background-image: url(./1chi.svg);
+
+    h2 {
+        margin-top: 70px;
+        font-weight: 300;
+    }
+
+
+
+    button {
+        width: 200px;
+        height: 47px;
+        margin-top: 20px;
+        color: white;
+        background: rgb(234, 133, 97);
+        border: none;
+    }
+
+    h1 {
+
+
+        font-size: 10dvb;
+
+    }
+
+}
+
+.what {
+    width: 100%;
+    height: 700px;
+
+    h1 {
+        position: absolute;
+        top: 1050px;
+        font-size: 8dvb;
+
+    }
+
+    .fr {
+        width: 100%;
+        height: 60%;
+        margin-top: 15px;
+        display: flex;
+        gap: 25px;
+    }
+
+    .rf {
+        width: 100%;
+        height: 20%;
+        margin-top: 30px;
+    }
+
+    h2 {
+        width: 270px;
+    }
+
+    h3 {
+        width: 340px;
+        color: gray;
+    }
+
+    .box {
+        width: 350px;
+        height: 100%;
+
+    }
+
+    h4 {
+        color: orangered;
+    }
+
+
+
+}
+
+
+.sel {
+    width: 100%;
+    height: 700px;
+
+
+    .sel h2 {
+        padding-left: 50px;
+
+    }
+
+    .buyum {
+        width: 100%;
+        height: 80%;
+        margin-top: 70px;
+        display: flex;
+        padding: 20px;
+        gap: 9px;
+
+        .bix {
+            width: 19%;
+            height: 100%;
+
+            img {
+                width: 100%;
+            }
+
+            h2 {
+                opacity: 50%;
+            }
+
+            h3 {
+                color: rgb(255, 102, 0);
+            }
+        }
+
+    }
+
+}
+
+
+.projects {
+    width: 100%;
+    height: 800px;
+    background: #0F3141;
+
+
+    h1 {
+        color: white;
+        font-size: 40px;
+        padding-top: 70px;
+        padding-left: 50px;
+    }
+
+    .rooms {
+        width: 100%;
+        height: 600px;
+        margin-top: 70px;
+        display: flex;
+
+        .bathroom {
+            width: 33%;
+            height: 100%;
+
+
+            img {
+                width: 92%;
+                height: 85%;
+                margin-left: 20px;
+            }
+
+            h2 {
+                position: absolute;
+                left: 50px;
+                color: white;
+            }
+
+        }
+
+        .livik {
+            width: 33%;
+            height: 100%;
+
+
+            img {
+                width: 92%;
+                height: 85%;
+
+            }
+
+            h2 {
+                color: orange;
+                padding-left: 30px;
+            }
+        }
+
+        .bed {
+            width: 33%;
+            height: 100%;
+
+
+            img {
+                width: 92%;
+                height: 85%;
+
+            }
+
+            h2 {
+                color: white;
+                padding-left: 30px;
+            }
+        }
+    }
+}
+
+
+.newcom {
+    width: 100%;
+    height: 800px;
+    background-image: url(./Group\ 13752.svg);
+
+    h2 {
+        color: #F16F4F;
+        position: absolute;
+        top: 3400px;
+        left: 100px;
+    }
+
+    h1 {
+        position: absolute;
+        top: 3455px;
+        left: 80px;
+        font-size: 60px;
+    }
+
+    p {
+        width: 460px;
+        position: absolute;
+        top: 3570px;
+        left: 80px;
+        color: gray;
+    }
+
+    img {
+        position: absolute;
+        top: 3670px;
+        left: 80px;
+    }
+
+    button {
+        width: 160px;
+        height: 44px;
+        position: absolute;
+        top: 3780px;
+        left: 80px;
+        color: white;
+        border: none;
+        background: #F16F4F;
+    }
+
+}
+
+
+.about {
+    width: 100%;
+    height: 700px;
+
+    h2 {
+        position: absolute;
+        top: 4200px;
+        left: 80px;
+        font-size: 50px;
+    }
+
+    .girl {
+        width: 100%;
+        height: 400px;
+
+        position: absolute;
+        top: 4353px;
+
+        h1 {
+            position: absolute;
+            top: 10px;
+            left: 650px;
+            width: 400px;
+            color: #0F3141;
+        }
+
+        p {
+            position: absolute;
+            top: 200px;
+            width: 300px;
+            left: 650px;
+            color: gray;
+        }
+
+
+        .rasm {
+            width: 40%;
+            height: 400px;
+
+            img {
+                margin-left: 270px;
+            }
+
+        }
+    }
+
+}
+
+
+.pay {
+    width: 100%;
+    height: 810px;
+    border: 2px solid  white;
+
+h1 {
+    width: 400px;
+    position: absolute;
+    top: 4850px;
+    font-size: 50px;
+    left: 100px;
+}
+
+
+p {
+    width: 500px;
+    position: absolute;
+    top: 5010px;
+    left: 100px;
+    color: #0F3141;
+}
+
+.sub {
+        position: absolute;
+        top: 4758px;
+        left: 1095px;
+}
+
+.kd {
+    position: absolute;
+    top: 5109px;
+    left: 955px;
+}
+
+
+.unp {
+    position: absolute;
+    top: 5329px;
+    left: 705px;
+}
+
+.b {
+margin-top: 410px;
+margin-left: 50px;
+}
+
+.b button {
+    width: 120px;
+margin-left: 40px;
+height: 40px;
+border: none;
+background: linear-gradient(94.92deg, #F26440 -23.03%, #EF7D60 122.53%);
+color: white;
+}
+
+.view {
+margin-top: -25px;
+    margin-left: 260px;
+    color: black;
+}
+
+}
+
+
+.footer {
+    width: 100%;
+    height: 400px;
+    background: #265267; 
+
+.c {
+    padding-left: 70px;
+    padding-top: 70px;
+}
+
+.top {
+    padding-left: 70px;
+    padding-top: 20px   ;
+}
+
+
+
+
+
+}
